@@ -10,6 +10,10 @@ The extended bi-directional communication features can be used for advanced inte
 * For now there is a [Bitwig Studio](https://www.bitwig.com/) extension to demonstrate the capabilities of this approach. If you are interested in adding new features to that, head over to the [Bitwig extension source code](integration/bitwig/).
 * If you want to know more details about the available MIDI/SysEx commands, have a look at the [native mode documentation](https://github.com/Trinitou/Midi_Fighter_Twister_Open_Source/blob/nativeMode/doc/NativeMode.md).
 
+## Contribution
+* If there is some bug or something you'd like to see in the future, feel free to [create an issue](https://github.com/Trinitou/MidiFighterTwisterXT/issues) for it.
+* Also if you do some advanced integration yourself and are willing to share it with the community, you are very welcome to put it into the [integration](integration) sub-directory and  [create a pull request](https://github.com/Trinitou/MidiFighterTwisterXT/compare).
+
 ## License
 Extended bi-directional communication for the DJ TechTools Midi Fighter Twister
 Copyright (C) 2022  Ulrich Wappler
