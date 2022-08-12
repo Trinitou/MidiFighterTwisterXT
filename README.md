@@ -2,7 +2,8 @@
 Extended bi-directional communication for the DJ TechTools MidiFighter Twister
 
 ## Firmware
-The Midi Fighter Twister firmware has been modified to support a more nuanced bi-directional communication. That means that the controller can be configured on the fly via MIDI cc/SysEx. E.g. individual RGB led colors can be addressed and changed directly during runtime. Source code can be found [here](https://github.com/Trinitou/Midi_Fighter_Twister_Open_Source).
+The Midi Fighter Twister firmware has been modified to support a more nuanced bi-directional communication. That means that the controller can be configured on the fly via MIDI cc/SysEx. E.g. individual RGB led colors can be addressed and changed directly during runtime.
+* If you are interested in how things work internally, have a look at the [firmware source code](https://github.com/Trinitou/Midi_Fighter_Twister_Open_Source).
 
 ## Advanced integration
 The extended bi-directional communication features can be used for advanced integration of the Midi Fighter Twister with other software:
