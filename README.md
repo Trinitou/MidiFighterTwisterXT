@@ -8,6 +8,7 @@ The Midi Fighter Twister firmware has been modified to support a more nuanced bi
 ## Advanced integration
 The extended bi-directional communication features can be used for advanced integration of the Midi Fighter Twister with other software:
 * For now there is a [Bitwig Studio](https://www.bitwig.com/) extension to demonstrate the capabilities of this approach. If you are interested in adding new features to that, head over to the [Bitwig extension source code](integration/bitwig/).
+* If you want to know more details about the available MIDI/SysEx commands, have a look at the [native mode documentation](https://github.com/Trinitou/Midi_Fighter_Twister_Open_Source/blob/nativeMode/doc/NativeMode.md).
 
 ## License
 Extended bi-directional communication for the DJ TechTools Midi Fighter Twister
